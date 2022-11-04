@@ -31,6 +31,8 @@ width = 900
 ----
 
 ## RyanAir direct flights Dublin
+> * 16/12 to 09/01
+
 <p align="center">
 <img
 src="img/02.PNG"
