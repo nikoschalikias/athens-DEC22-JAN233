@@ -31,3 +31,11 @@ width = 900
 ----
 
 ## RyanAir direct flights Dublin
+<p align="center">
+<img
+src="img/02.PNG"
+width = 900
+/>
+</p>
+
+----
