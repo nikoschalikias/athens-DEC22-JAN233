@@ -11,12 +11,20 @@
 
 ## Scyscanner preview
 
+### Swiss
 <p align="center">
 <img
 src="img/01.PNG"
 width = 900
 />
 </p>
+
+* Departure Dublin Saturday 18/12/2022
+* Arrival Dublin Sunday 8/01/2023
+----
+* have to be at Dublin airport Saturday 18/12 at 10:40
+    * Option 1 get the Cork-Dublin-Airport bus at 07:00
+    * Option 2 travel to Dublin on Friday evening by train and stay at hotel
 
 
 
