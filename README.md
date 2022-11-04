@@ -19,6 +19,8 @@ width = 900
 />
 </p>
 
+----
+
 * Departure Dublin Saturday 18/12/2022
 * Arrival Dublin Sunday 8/01/2023
 ----
@@ -26,6 +28,6 @@ width = 900
     * Option 1 get the Cork-Dublin-Airport bus at 07:00
     * Option 2 travel to Dublin on Friday evening by train and stay at hotel
 
-
+----
 
 
