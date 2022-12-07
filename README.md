@@ -5,7 +5,6 @@
 
 
 * [tasks](tasks.md)
-* [slideck](slideck.md)
 * [tickets_research](tickets_research.md)
 * [payments](payments.md)
 
