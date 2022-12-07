@@ -22,6 +22,6 @@ width = 600
 />
 </p>
 
-`image 12: Cosmote 12euro`
+`image 12: Cosmote 12euro `
 
 ----
