@@ -25,3 +25,14 @@ width = 600
 `image 12: Cosmote 12euro `
 
 ----
+
+<p align="center">
+<img
+src="img/13.PNG"
+width = 600
+/>
+</p>
+
+`image 13: Megaro mousikis 30euro `
+
+----
