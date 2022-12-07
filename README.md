@@ -10,3 +10,18 @@
 
 # athens-DEC22-JAN23
 
+
+## 07/12/2022 
+
+----
+
+<p align="center">
+<img
+src="img/12.PNG"
+width = 600
+/>
+</p>
+
+`image 12: Cosmote 12euro`
+
+----
