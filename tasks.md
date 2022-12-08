@@ -7,7 +7,8 @@
 
 # tasks
 
-* Vueling add passports and check-in get boarding passes
+- [ ] 1. Vueling add passports and check-in get boarding passes
+    - Use confirmation number and Paris[Orly] and date to manage booking
 
 
 
