@@ -7,5 +7,7 @@
 
 # tasks
 
+* Vueling add passports and check-in get boarding passes
+
 
 
